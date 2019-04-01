@@ -1,0 +1,24 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome Detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racs93/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Rodrigo Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racs93/palindrome/issues"
+  },
+  "homepage": "https://github.com/racs93/palindrome#readme"
+}
